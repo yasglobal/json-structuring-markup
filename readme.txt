@@ -1,12 +1,12 @@
 ﻿=== JSON Structuring Markup ===
-Contributors: sasiddiqui, yasglobal
+Contributors: sasiddiqui
 Donate link: https://www.paypal.me/yasglobal
 Tags: json-ld, markup, schema, rich snippets, structured data, SEO, schema.org, schema markup, JSON, google validated
 Requires at least: 4.0
-Tested up to: 4.8
+Tested up to: 4.9
 Stable tag: 0.1
-License: GPL v2 or later
-License URI: http://www.gnu.org/licenses/gpl.html
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 JSON Structuring markup is simply the easiest solution to add valid schema.org as a JSON script in the head of posts and pages.
 
