@@ -1,7 +1,7 @@
 # JSON Structuring Markup
 
 ## Description
-Search engines such as Google are using structured data markup in many ways—for example, to create rich snippets in search results. Search results with rich snippets will improve your click through rates and increase the number of visitors on your website.
+Search engines such as Google are using structured data markup in many waysâ€”for example, to create rich snippets in search results. Search results with rich snippets will improve your click through rates and increase the number of visitors on your website.
 
 This plugin helps:
 
@@ -34,4 +34,5 @@ A. Installing this plugin is the easiest way to add structured data to your post
 A. We cannot promise it - but installing this plugin is in any case a step in right direction.
 
 **Q. Does image necessarily to be provided to activate the plugin?**
+
 A. Yes, Incase the fearuted image is not provided by the author so, the default provided image would be use. Else some of the schema's won't be validate the google structure data.
